@@ -1,45 +1,34 @@
 class MyQueue {
-    private ArrayDeque<Integer> incoming;
-    private ArrayDeque<Integer> outgoing;
+    Stack<Integer> st = new Stack<>();
+    Stack<Integer> helper = new Stack<>();
 
     public MyQueue() {
-        incoming = new ArrayDeque<>();
-        outgoing = new ArrayDeque<>();
         
     }
     
-    public void push(int x) {
-        incoming.push(x);
+    public void push(int x) {    //O(1)
+        st.push(x);
         
     }
     
-    public int pop() {
-        shiftElements();
-        return outgoing.pop();
-        
+    public int pop(){     //O(n)
+        while(st.size()>1) helper.push(st.pop());
+        int front = st.pop();
+        while(helper.size()>0) st.push(helper.pop());
+        return front;
     }
     
-    public int peek() {
-        shiftElements();
-        return outgoing.peek();
-
-        
+    public int peek() {     //O(n)
+        while(st.size()>1) helper.push(st.pop());
+        int front = st.peek();
+        while(helper.size()>0) st.push(helper.pop());
+        return front;
     }
-    
     public boolean empty() {
-        return incoming.isEmpty() && outgoing.isEmpty();
+        return (st.size()==0);
         
     }
-    private void shiftElements() {
-
-        if (!outgoing.isEmpty()) {
-            return;
-        }
-
-        while (!incoming.isEmpty()) {
-            outgoing.push(incoming.pop());
-        }
-    }
+    
 }
 
 /**
