@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Simulation
@@ -32,9 +33,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
