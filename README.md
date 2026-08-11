@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0058-length-of-last-word](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 ## Dynamic Programming
 |  |
 | ------- |
