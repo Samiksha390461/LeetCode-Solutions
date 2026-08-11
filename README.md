@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0136-single-number](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0283-move-zeroes](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0283-move-zeroes](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
