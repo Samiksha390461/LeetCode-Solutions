@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
+| [3925-concatenate-array-with-reverse](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Bit Manipulation
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3925-concatenate-array-with-reverse](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Stack
 |  |
 | ------- |
