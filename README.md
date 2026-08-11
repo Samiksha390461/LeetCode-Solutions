@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0136-single-number](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0136-single-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3731-find-missing-elements](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 ## Design
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 ## String
 |  |
 | ------- |
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 ## Manacher
 |  |
 | ------- |
@@ -96,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
