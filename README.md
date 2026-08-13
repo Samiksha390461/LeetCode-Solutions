@@ -58,12 +58,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0112-path-sum) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0112-path-sum) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0112-path-sum) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -132,4 +135,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0169-majority-element) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
