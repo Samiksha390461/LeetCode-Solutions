@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0078-subsets) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0136-single-number](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0283-move-zeroes) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -150,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0169-majority-element) |
 ## Counting
 |  |
