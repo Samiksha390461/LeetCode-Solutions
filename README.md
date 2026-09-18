@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
 | [0283-move-zeroes](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0198-house-robber](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 ## Manacher
 |  |
