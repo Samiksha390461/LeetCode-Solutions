@@ -20,13 +20,11 @@ class Solution {
         while(left<right){
             int sum= nums[left]+nums[right];
             if(sum==target){
-                ans[0]=left+1;
-                ans[1]=right+1;
-                return ans;
+                return new int[]{left+1,right+1};
             }
             else if(sum<target) left++;
             else right--;
         }
-        return ans;
+        return new int[]{};
     }
 }
