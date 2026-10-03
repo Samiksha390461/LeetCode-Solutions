@@ -22,9 +22,8 @@ class Pair{
     }
 }
 class Solution {
-    static boolean flag =true;
+    boolean flag =true;
     public boolean isValidBST(TreeNode root) {
-        flag=true;
         if(root.left==null && root.right==null) return true;
         maxMin(root);
         return flag;    
