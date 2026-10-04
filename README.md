@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/2016-maximum-difference-between-increasing-elements) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0877-stone-game](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2965-find-missing-and-repeated-values](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0877-stone-game) |
 ## Manacher
 |  |
 | ------- |
@@ -262,4 +265,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0538-convert-bst-to-greater-tree) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
