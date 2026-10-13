@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0877-stone-game](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2965-find-missing-and-repeated-values](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
