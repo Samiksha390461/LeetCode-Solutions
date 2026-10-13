@@ -1,12 +1,12 @@
 class Solution {
     public int countOdds(int low, int high) {
-        if(low%2==0) low++;
-        int count=0;
-        while(low<=high){
-            if(low%2!=0) count++;
-            low+=2;
-        }
-        return count;
-        
+        // if(low%2==0) low++;
+        // int count=0;
+        // while(low<=high){
+        //     if(low%2!=0) count++;
+        //     low+=2;
+        // }
+        // return count;
+        return ((high+1)/2)-low/2;
     }
 }
