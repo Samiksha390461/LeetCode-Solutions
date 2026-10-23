@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0844-backspace-string-compare](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
+| [0897-increasing-order-search-tree](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0897-increasing-order-search-tree) |
 | [1021-remove-outermost-parentheses](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Design
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0897-increasing-order-search-tree](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0897-increasing-order-search-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0897-increasing-order-search-tree](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0897-increasing-order-search-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0538-convert-bst-to-greater-tree) |
+| [0897-increasing-order-search-tree](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0897-increasing-order-search-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Hash Table
 |  |
@@ -315,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0538-convert-bst-to-greater-tree) |
+| [0897-increasing-order-search-tree](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0897-increasing-order-search-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Minimax
 |  |
