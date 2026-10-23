@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Design
 |  |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Breadth-First Search
 |  |
