@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2409-count-days-spent-together](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
 | [2965-find-missing-and-repeated-values](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3870-count-commas-in-range](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/3870-count-commas-in-range) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2409-count-days-spent-together](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Dynamic Programming
 |  |
