@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0877-stone-game](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0278-first-bad-version) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bracket Sequences
 |  |
