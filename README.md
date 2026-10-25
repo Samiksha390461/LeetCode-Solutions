@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0746-min-cost-climbing-stairs](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [1254-number-of-closed-islands](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/2016-maximum-difference-between-increasing-elements) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0897-increasing-order-search-tree](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0897-increasing-order-search-tree) |
+| [1254-number-of-closed-islands](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
+| [1254-number-of-closed-islands](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
+| [1254-number-of-closed-islands](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [2965-find-missing-and-repeated-values](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -373,4 +377,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
