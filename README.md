@@ -327,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0278-first-bad-version](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0278-first-bad-version) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bracket Sequences
 |  |
@@ -381,4 +382,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
