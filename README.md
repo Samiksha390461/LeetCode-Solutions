@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0078-subsets](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0085-maximal-rectangle](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 ## Prefix Sum
 |  |
 | ------- |
