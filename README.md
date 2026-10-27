@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2454-next-greater-element-iv](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/2454-next-greater-element-iv) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0897-increasing-order-search-tree) |
 | [1021-remove-outermost-parentheses](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2454-next-greater-element-iv](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/2454-next-greater-element-iv) |
 ## Design
 |  |
 | ------- |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2454-next-greater-element-iv](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/2454-next-greater-element-iv) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Enumeration
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
+| [2454-next-greater-element-iv](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/2454-next-greater-element-iv) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -353,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0278-first-bad-version) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2454-next-greater-element-iv](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/2454-next-greater-element-iv) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -415,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [2454-next-greater-element-iv](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/2454-next-greater-element-iv) |
 ## Merge Sort
 |  |
 | ------- |
