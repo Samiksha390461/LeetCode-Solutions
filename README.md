@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3731-find-missing-elements](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3903-smallest-stable-index-i](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0136-single-number) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Math
 |  |
 | ------- |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Manacher
 |  |
 | ------- |
@@ -345,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [2965-find-missing-and-repeated-values](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
