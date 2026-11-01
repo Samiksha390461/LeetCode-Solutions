@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
 | [0283-move-zeroes](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0735-asteroid-collision](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0746-min-cost-climbing-stairs](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0877-stone-game) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0877-stone-game](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
