@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## String
 |  |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
