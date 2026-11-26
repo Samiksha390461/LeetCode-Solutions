@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
+| [0051-n-queens](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0051-n-queens](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0078-subsets) |
 ## Greedy
 |  |
@@ -509,4 +511,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
