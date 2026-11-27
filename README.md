@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2454-next-greater-element-iv](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/2454-next-greater-element-iv) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0142-linked-list-cycle-ii](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Samiksha390461/LeetCode-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
